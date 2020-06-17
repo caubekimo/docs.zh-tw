@@ -28,7 +28,7 @@ ms.locfileid: "81389479"
 
 如需有關 .NET Framework 4.5 之前之 .NET Framework 版本的資訊，請參閱 [.NET Framework 版本和相依性](../migration-guide/versions-and-dependencies.md)。
 
-使您能夠為 .NET Framework 開發應用的開發環境具有一組單獨的要求。
+每一個讓您用來開發 .NET Framework 應用程式的開發環境，都有不同的需求項目。
 
 [!INCLUDE[net-framework-4-versions](../../../includes/net-framework-4x-versions.md)]
 
